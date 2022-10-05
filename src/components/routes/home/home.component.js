@@ -1,4 +1,4 @@
-import CategoryList from "../../components/category-list/category-list.component ";
+import CategoryList from "../../category-list/category-list.component ";
 
 const Home = () => {
 
